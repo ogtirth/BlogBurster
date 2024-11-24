@@ -23,7 +23,7 @@
 ## Usage  
 Run the script:  
 ```bash
-python blogburster.py
+python BlogBurster.py
 ```
 
 Follow the on-screen prompts to:  
