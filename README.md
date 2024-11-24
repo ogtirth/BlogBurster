@@ -1,4 +1,4 @@
-echo "# BlogBurster 🚀  
+# BlogBurster 🚀  
 **BlogBurster** is a powerful Python script designed to boost blog views by simulating real user traffic. It uses multi-threading, random user agents, and customizable settings to create a realistic and efficient traffic surge for your blog or webpage.
 
 ## Features  
@@ -32,4 +32,3 @@ Follow the on-screen prompts to:
 3. Set the number of threads to use.  
 
 The script will handle the rest, providing you with real-time status updates for each request.
-"
