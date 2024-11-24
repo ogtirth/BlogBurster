@@ -10,21 +10,21 @@
 
 ## Installation  
 1. Clone the repository:  
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/blogburster.git
    cd blogburster
-   \`\`\`
+   ```
 2. Install the required dependencies:  
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 3. Make sure to add a \`user-agents.txt\` file with a list of user agents (one per line) in the project directory.  
 
 ## Usage  
 Run the script:  
-\`\`\`bash
+```bash
 python blogburster.py
-\`\`\`
+```
 
 Follow the on-screen prompts to:  
 1. Enter the blog post link.  
