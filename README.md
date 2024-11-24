@@ -11,7 +11,7 @@
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/blogburster.git
+   git clone https://github.com/ogtirth/blogburster.git
    cd blogburster
    ```
 2. Install the required dependencies:  
